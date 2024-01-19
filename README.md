@@ -14,8 +14,7 @@ The dataset used for this analysis is sourced from my sport playlist on Spotify.
 - The initial phase involved preprocessing the data, which included handling null values, dropping unnecessary columns, and understanding the data format.
   
 ### Exploratory Data Analysis (EDA)
-- Applied various EDA techniques and visualization methods.
-- Classified songs into low, medium, and high energy categories based on energy values.
+- Applied various EDA techniques and visualization methods.As an example, classified songs into low, medium, and high energy categories based on energy values.
 
 ### Machine Learning Model (Random Forest Classifier)
 - Utilized a Random Forest Classifier to predict the energy category of songs.
